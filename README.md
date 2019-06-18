@@ -1,4 +1,4 @@
-# python_Learning
+# Python_Learning
 
 
 [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf)
